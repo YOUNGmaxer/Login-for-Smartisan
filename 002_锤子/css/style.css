@@ -1,0 +1,97 @@
+body {
+	background: #eee !important;
+}
+
+.wrapper {
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+
+.form-signin {
+	max-width: 450px;
+	margin: 0 auto;
+	background-color: #fff;
+	padding: 15px 35px 25px;
+}
+
+.form-signin-heading {
+	margin-bottom: 50px;
+	text-align: center;
+}
+
+.form-signin .form-control {
+	height: 46px;
+	font-size: 16px;
+}
+.form-signin .checkbox {
+	font-weight: normal;
+	margin-left: 5px;
+	margin-right: 5px;
+	display: inline-block;
+	width: 80px;
+}
+
+.remember input[type="checkbox"]  {
+	margin-top: 1.49px;
+}
+
+.input-group .input-group-addon {
+	width: 2%;
+	padding-left: 16px;
+	padding-right: 16px;
+}
+
+.input-group {
+	margin-top: 15px;
+}
+
+.remember {
+	font-size: 12px;
+}
+
+.forgetpassword {
+	float: right;
+	margin:10px 5px 10px;
+}
+.registercloud {
+	float: right;
+	margin:10px 5px 10px;
+}
+.registercloud:after {
+	content: "";
+	display: inline-block;
+	width: 1px;
+	height: 11px;
+	background-color: #e5e5e5;
+	margin-left: 9px;
+	margin-top: -2px;
+	vertical-align: middle;
+}
+
+
+a {
+	cursor: pointer;
+}
+a:hover {
+	text-decoration: none;
+}
+
+
+/*.account {
+	margin-top: 20px;
+	margin-bottom: 15px;
+}
+.password {
+	margin-bottom: 15px;
+}*/
+
+
+.btn {
+	margin-top: 25px;
+}
+
+.info-wrapper {
+	margin-top: 30px;
+	box-shadow: 0 1px 0 rgba(255,255,255,0.4) inset;
+	border-top: 1px solid #d9d9d9;
+}
